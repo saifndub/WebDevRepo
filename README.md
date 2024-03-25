@@ -1,4 +1,4 @@
-# WebDevRepo
+# Web Development Repository
 This repository contains all of my web development links here.
 
 - ### University Management System (using HTML/PHP/JS/MySQL)
